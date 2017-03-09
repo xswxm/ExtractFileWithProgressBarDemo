@@ -1,5 +1,5 @@
 # ExtractFileWithProgressBarDemo
-Extract Compressed Files with Progress Bar in C# and Ionic
+Indicate an accurate progressbar when extracting a zip file with C# and Ionic
 
 This demo is able to disply the whole extraction process accurately.
 
